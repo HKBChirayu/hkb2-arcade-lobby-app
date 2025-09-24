@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0ec0a6e0.css",
-    "main.js": "/static/js/main.f2a741a3.js",
+    "main.css": "/static/css/main.a8d947b4.css",
+    "main.js": "/static/js/main.d82af45e.js",
     "static/js/27.f0b43481.chunk.js": "/static/js/27.f0b43481.chunk.js",
     "static/media/mobile-landscape.jpg": "/static/media/mobile-landscape.9c5905f12ff8a38ddd1d.jpg",
     "static/media/mobile-portrait.jpg": "/static/media/mobile-portrait.8c5d8454785e206cfc55.jpg",
@@ -15,7 +15,7 @@
     "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs"
   },
   "entrypoints": [
-    "static/css/main.0ec0a6e0.css",
-    "static/js/main.f2a741a3.js"
+    "static/css/main.a8d947b4.css",
+    "static/js/main.d82af45e.js"
   ]
 }
