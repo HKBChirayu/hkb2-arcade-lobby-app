@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.729846e7.css",
+    "main.css": "/static/css/main.df1773fe.css",
     "main.js": "/static/js/main.c4ef0d6b.js",
     "static/js/27.9e9e50dc.chunk.js": "/static/js/27.9e9e50dc.chunk.js",
     "static/media/mobile-landscape.jpg": "/static/media/mobile-landscape.9c5905f12ff8a38ddd1d.jpg",
@@ -23,7 +23,7 @@
     "static/media/pagi_right_arrow.svg": "/static/media/pagi_right_arrow.7f7597aeb8f6c1ec8eccf97d6f3eba7c.svg"
   },
   "entrypoints": [
-    "static/css/main.729846e7.css",
+    "static/css/main.df1773fe.css",
     "static/js/main.c4ef0d6b.js"
   ]
 }
