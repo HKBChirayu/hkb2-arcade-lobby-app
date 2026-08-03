@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fe75711e.css",
-    "main.js": "/static/js/main.517bda27.js",
+    "main.css": "/static/css/main.464ade07.css",
+    "main.js": "/static/js/main.3a632566.js",
     "static/js/27.9e9e50dc.chunk.js": "/static/js/27.9e9e50dc.chunk.js",
     "static/media/mobile-landscape.jpg": "/static/media/mobile-landscape.9c5905f12ff8a38ddd1d.jpg",
     "static/media/canvasgaming.png": "/static/media/canvasgaming.798036c8e5f4fce9d40c.png",
@@ -30,7 +30,7 @@
     "static/media/down_arrow.svg": "/static/media/down_arrow.78417ec3d7ebd67f84799c008f361bd9.svg"
   },
   "entrypoints": [
-    "static/css/main.fe75711e.css",
-    "static/js/main.517bda27.js"
+    "static/css/main.464ade07.css",
+    "static/js/main.3a632566.js"
   ]
 }
