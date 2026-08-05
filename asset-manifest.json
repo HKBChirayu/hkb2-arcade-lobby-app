@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2b59cdeb.css",
-    "main.js": "/static/js/main.69fc7960.js",
+    "main.js": "/static/js/main.5012094c.js",
     "static/js/27.9e9e50dc.chunk.js": "/static/js/27.9e9e50dc.chunk.js",
     "static/media/mobile-landscape.jpg": "/static/media/mobile-landscape.9c5905f12ff8a38ddd1d.jpg",
     "static/media/canvasgaming.png": "/static/media/canvasgaming.798036c8e5f4fce9d40c.png",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.2b59cdeb.css",
-    "static/js/main.69fc7960.js"
+    "static/js/main.5012094c.js"
   ]
 }
